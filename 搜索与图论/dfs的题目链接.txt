@@ -1,0 +1,6 @@
+1.全排列
+https://www.luogu.com.cn/problem/P1706
+2.枚举元组
+https://www.luogu.com.cn/problem/B3621
+3.n皇后
+详见leetcode
