@@ -6,3 +6,5 @@ https://www.luogu.com.cn/problem/B3621
 详见leetcode
 4.枚举子集
 https://www.luogu.com.cn/problem/B3622
+5.枚举排列
+https://www.luogu.com.cn/problem/B3623
